@@ -1,13 +1,30 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Doctor of Philosophy
+  uni: University of California, San Diego
+  year: 2019 &mdash; now
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: "Major - Computer Science and Engineering (Overall GPA 4.00/4.00)"
+    - award: "Advisor - Prof. Chung-Kuan Cheng"
+  # summary: You can choose to have either a single or multiple awards
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master of Science
+  uni: National Taiwan University
+  year: 2015 &mdash; 2017
+  awards:
+    - award: "Major - Electronics Engineering (Overall GPA 4.23/4.30)"
+    - award: "Advisor - Prof. Yao-Wen Chang"
+  # summary: You can choose to have either a single or multiple awards
+
+- degree: Undergraduate Exchange Student
+  uni: Koc University
+  year: 2015
+  # award: 123
+  # summary: You can choose to have either a single or multiple awards
+
+- degree: Bachelor of Science
+  uni: National Chiao Tung University
+  year: 2011 &mdash; 2015
+  awards:
+    - award: "Major - Electronics Engineering (Overall GPA 4.02/4.30)"
+    - award: "Minor - Computer Science"
+  # summary: You can choose to have either a single or multiple awards
