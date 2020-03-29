@@ -87,8 +87,6 @@
               <li>{{ award.award }}</li>
               {% endfor %}
             </ul></h5>
-
-
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
         {% endfor %}
@@ -133,6 +131,42 @@
 
       </section>
       <!-- end Skills -->
+      {% endif %}
+
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+        {% for pub in site.data.publications %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ pub.skill }}</h4>
+          <p class="resume-item-copy">{{ pub.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Publications -->
+      {% endif %}
+
+      {% if site.resume_section_patents %}
+      <!-- begin Patents -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Patent</h2>
+        </header>
+        {% for patent in site.data.patents %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ patent.skill }}</h4>
+          <p class="resume-item-copy">{{ patent.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Patents -->
       {% endif %}
 
       {% if site.resume_section_recognition %}
