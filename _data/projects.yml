@@ -1,16 +1,15 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: The OpenROAD Project
+  role: Research Assistant
+  duration: May, 2012 &mdash; Present
+  url: "https://theopenroadproject.org/"
+  description: <ul class="resume-item-list"><li>24-hour, No-Human-In-The-Loop layout design for SOC, Package and PCB</li><li>Machine-learning-driven parallel search and optimization</li><li>Focused on a multi-objective cost-driven path finding problem with complex constraints</li></ul>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Joint Research Project, AnaGlobe
+  role: Research Assistant
+  duration: Sep, 2016 &mdash; Aug, 2017
+  url: "http://anaglobe.com/"
+  description: <ul class="resume-item-list"><li>Focused on RDL routing for TSMC InFO_PoP advanced packaging technologies</li><li> Proposed to transform a routing sequence into two directed acyclic graphs to minimize multiple objectives</li><li>Experimental results showed that our router can achieve 100% routablility for all given test cases</li></ul>
