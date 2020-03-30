@@ -62,6 +62,9 @@ resume_print_social_links:      true
 # Design settings
 resume_theme:                   default
 
+# Google Analytics
+google_analytics: UA-162183542-1
+
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
