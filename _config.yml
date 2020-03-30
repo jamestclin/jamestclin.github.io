@@ -36,6 +36,7 @@ resume_header_intro: "<p>Hi! I'm a first-year PhD student at UCSD. My research i
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_research:        true
+resume_section_projects:        true
 resume_section_skills:          true
 resume_section_patents:         true
 resume_section_publications:    true

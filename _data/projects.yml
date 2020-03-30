@@ -1,0 +1,14 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+- project: Review and Extension of AlphaNPI @ NeurIPS'19
+  duration: Winter, 2020
+  url: "https://github.com/k2973363/UCSD-Winter20-CSE291-AlphaNPI"
+  description: <ul class="resume-item-list"><li>Original paper is available at <a href="https://papers.nips.cc/paper/9608-learning-compositional-neural-programs-with-recursive-tree-search-and-planning.pdf">Learning Compositional Neural Programs with Recursive Tree Search and Planning</a></li><li> Studied the AlphaZero reinforcement learning algorithm and Neural Programmer-Interpreters (NPI)</li><li> Implemented an extension to show that a single core LSTM is capable of learning multiple programs</li></ul>
+
+- project: Drug Rating Prediction of the Drug Review Dataset
+  duration: Fall, 2019
+  url: "https://github.com/k2973363/Drug-Rating-Prediction-of-Drug-Review-Dataset"
+  description: <ul class="resume-item-list"><li>Dataset is available at <a href="https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29">UCI Machine Learning Repository</a></li><li>Mixed uni- & bi-gram words with TF-IDF as features to represent drug review text</li><li>Adopted random forest regressor to achieve R^2 with 0.79 when predicting drug rating</li></ul>
+  
+
