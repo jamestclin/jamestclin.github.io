@@ -95,14 +95,14 @@
       {% endif %}
 
 
-      {% if site.resume_section_projects %}
-      <!-- begin Projects -->
+      {% if site.resume_section_research %}
+      <!-- begin Research -->
       <section class="content-section">
         <header class="section-header">
           <h2>Research Experiences</h2>
         </header>
 
-        {% for project in site.data.projects %}
+        {% for project in site.data.research %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
@@ -112,7 +112,7 @@
         {% endfor %}
 
       </section>
-      <!-- end Projects -->
+      <!-- end Research -->
       {% endif %}
 
       {% if site.resume_section_skills %}
