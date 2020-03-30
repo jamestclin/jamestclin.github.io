@@ -5,7 +5,7 @@
   role: Research Assistant
   duration: May, 2019 &mdash; Present
   url: "https://theopenroadproject.org/"
-  description: <ul class="resume-item-list"><li>24-hour, No-Human-In-The-Loop layout design for SOC, Package and PCB</li><li>Machine-learning-driven parallel search and optimization</li><li>Focused on a multi-objective cost-driven path finding problem with complex constraints</li></ul>
+  description: <ul class="resume-item-list"><li>24-hour, No-Human-In-The-Loop layout design for SOC, Package and PCB</li><li>Machine-learning-driven parallel search and optimization</li><li>Focused on a multi-objective cost-driven path finding problem with complex constraints</li><li>Main developer of the open source <a href="https://github.com/The-OpenROAD-Project/PcbRouter">PCB Router</a></li></ul>
 
 # Springfield Community Outreach Group
 - project: Joint Research Project, AnaGlobe
