@@ -1,14 +1,15 @@
 # Skills
-# Organizational leadership
 - skill: Version Control Systems
   description: Git, GitHub, Perforce
 
-# Communications strategy
-- skill: Programing Language
+- skill: Programing Languages
   description: C/C++ > Python = Java = Cadence SKILL > Matlab
+
+- skill: Python Packages
+  description: Scikit-Learn, PyTorch, NumPy, Matplotlib, SciPy, TensorBoard, Pandas, JupyterLab
 
 - skill: EDA Tools
   description: Cadence SiP, Cadence OribitIO, Cadence Virtuoso, Synopsys Design Compiler, Synopsys IC Compiler, KiCad, Autodesk EAGLE
 
-- skill: Language
+- skill: Languages
   description: English (Fluent), Mandarin Chinese (Native)
