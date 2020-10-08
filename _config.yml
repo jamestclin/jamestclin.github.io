@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "TING-CHOU LIN"
-resume_title:                   "UCSD CSE Ph.D. Student"
+resume_title:                   "UCSD CSE Graduate Student"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "til002@eng.ucsd.edu"
@@ -23,7 +23,7 @@ resume_contact_telephone:       "858-210-2645"
 resume_header_contact_info:     "858-210-2645 • til002@eng.ucsd.edu"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hi! I'm a first-year PhD student at UCSD. My research interests are, including but not limited to, search and optimization, reinforcement learning and design automation. </p>"
+resume_header_intro: "<p>Hi! I'm a UCSD CSE second-year graduate student with a solid programming background and 1.5 years of professional full-time software engineering experience. I will get a master’s degree in March 2021 and is looking for a Full-time Research or Software Engineering position. My research interests are, including but not limited to, search and optimization, reinforcement learning and design automation. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
