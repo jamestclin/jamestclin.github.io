@@ -1,6 +1,11 @@
 # Jobs
+- company: Cerebras Systems, Inc
+  position: Software Engineer
+  duration: May., 2019 &mdash; Present
+  summary: Cerebras offer the fastest AI accelerator, based on the largest processor in the industry. <ul class="resume-item-list"><li>•	Developed algorithms that transform a computational graph representation of large language and vision models to a specific performance-optimized running plan for the Cerebras wafer-Scale-engine hardware accelerators</li><li>•	Established a new framework and infrastructure in the Cerebras Graph Compiler that exposes Python APIs, simplifying internal kernel development and improving test coverage of kernels (C++/Python)</li><li>•	Investigated various methods for kernel placement and routing, resulting in a 15% reduction in compile time for large language and vision models in the Cerebras Graph Compiler (C++)</li><li>•	Implemented compiler lowering paths for internal graph representation of large language and vision models and achieved full test coverage for the operations in the internal graph representation (MLIR/LLVM)</li><li>•	Collaborated cross-functionally with ML model, framework, and kernel teams to resolve challenging compiler issues and enable the use of GPT-style/BERT models on the Cerebras hardware accelerators</li></ul>
+
 - company: Cadence Design Systems, Inc
   position: Software Engineer
-  duration: Oct, 2017 &mdash; Mar, 2019
-  summary: Cadence is one of the '2019 Fortune 100 Best Companies to Work For' <ul class="resume-item-list"><li>Focused on layout editing tool SiP (C/C++) and system planning tool OrbitIO (JAVA)</li><li>Worked closely with software architects in North America to develop new features</li><li>Supported Taiwan Semiconductor (TSMC) to develop certificated reference flow</li><li>Enhanced metal-filling/degassing functions in SiP with 40x/10x speedups</li></ul>
+  duration: Oct., 2017 &mdash; Mar., 2019
+  summary: Cadence is a leading EDA provider delivering software for electronic design. <ul class="resume-item-list"><li>•	Developed two commercial tools, SiP (C++) and OrbitIO (Java), in collaboration with teams in Taiwan, U.S., and China to develop new features to meet the needs of global customers</li><li>•	Established Taiwan Semiconductor (TSMC)’s certificated reference flow, utilizing Cadence’s commercial tools to design IC package in state-of-the-art IC packaging technology</li><li>Supported Taiwan Semiconductor (TSMC) to develop certificated reference flow</li><li>•	Implemented graph algorithms in critical features of SiP, resulting in 40x/10x improvement in performance, and reducing overall runtime from days to hours</li></ul>
 
