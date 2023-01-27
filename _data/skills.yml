@@ -1,18 +1,9 @@
 # Skills
-- skill: Version Control Systems
-  description: Git, GitHub, Perforce
-
 - skill: Programing Languages
-  description: C/C++, Python, Java, Go, Matlab
+  description: C/C++, Python, Java, Go
 
-- skill: Python Packages
-  description: Scikit-Learn, PyTorch, NumPy, Matplotlib, SciPy, TensorBoard, Pandas, JupyterLab
-
-- skill: Miscellaneous
-  description: Docker, MySQL, AWS, OpenMP, OpenCV, CUDA, Boost C++, CMake
+- skill: Skills & Framework
+  description: PyTorch, TensorFlow, MLIR, LLVM, Git
   
 - skill: EDA Tools
   description: Cadence SiP, Cadence OribitIO, Cadence Virtuoso, Synopsys Design Compiler, Synopsys IC Compiler, KiCad, Autodesk EAGLE
-
-- skill: Languages
-  description: English (Fluent), Mandarin Chinese (Native)
