@@ -1,6 +1,6 @@
 # Site settings
 title: "Ting-Chou Lin's Homepage"
-description: "Ting-Chou Lin, Software Engineer (MTS) @ Cerebras"
+description: "Ting-Chou Lin, Software Development Engineer (MTS) @ Cerebras"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ting-Chou (James) Lin"
-resume_title:                   "UCSD CSE Graduate Student"
+resume_title:                   "Software Development Engineer (MTS) @ Cerebras"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jameslin.cb@gmail.com"
