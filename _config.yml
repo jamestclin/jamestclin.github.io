@@ -20,10 +20,10 @@ resume_contact_email:           "til002@eng.ucsd.edu"
 resume_contact_telephone:       "858-210-2645"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "858-210-2645 • til002@eng.ucsd.edu"
+resume_header_contact_info:     "858-210-2645 • jameslin.cb@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hi! I'm a UCSD CSE second-year graduate student with a solid programming background and 1.5 years of professional full-time software engineering experience. I will get a master’s degree in March 2021 and is looking for a Full-time Research or Software Engineering position. My research interests are, including but not limited to, search and optimization, reinforcement learning and design automation. </p>"
+resume_header_intro: "<p>As a highly motivated software engineer with a strong background in both computer science and electronics engineering, I have developed a diverse set of skills through my 3+ years of professional full-time experience in the industry. Throughout my career, I have had the opportunity to work with cutting-edge technologies and collaborate with cross-functional teams to deliver innovative solutions. I have experience in developing graph algorithms for accelerators, optimizing software runtime, and enabling GPT/BERT models on accelerators. My current research focus is on search and optimization as well as design automation.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -49,13 +49,13 @@ resume_section_recognition:     true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/k2973363"
+  resume_github_url:            "https://github.com/jamestclin"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/ting-chou-lin-671375aa/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://k2973363.github.io/"
+  resume_website_url:           "https://jamestclin.github.io/"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
