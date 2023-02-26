@@ -5,6 +5,8 @@
   awards:
     - award: "Major - Computer Science and Engineering (Overall GPA 3.97/4.00)"
 #     - award: "Advisor - Prof. Chung-Kuan Cheng"
+    - award: "UCSD Fellowship and Graduate Student Researcher"
+    - award: "UCSD J. Yang Scholarship Award"
   # summary: You can choose to have either a single or multiple awards
 
 - degree: Master of Science
@@ -13,6 +15,7 @@
   awards:
     - award: "Major - Electronics Engineering (Overall GPA 4.23/4.30)"
 #     - award: "Advisor - Prof. Yao-Wen Chang"
+    - award: "NTU Academic Scholarship Award (two times)"
   # summary: You can choose to have either a single or multiple awards
 
 - degree: Undergraduate Exchange Student
@@ -27,4 +30,5 @@
   awards:
     - award: "Major - Electronics Engineering (Overall GPA 4.02/4.30)"
     - award: "Minor - Computer Science"
+    - award: "NCTU Academic Scholarship Award"
   # summary: You can choose to have either a single or multiple awards
