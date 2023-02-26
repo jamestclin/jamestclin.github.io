@@ -3,7 +3,7 @@
   description: C/C++, Python, Java, Go
 
 - skill: Skills & Framework
-  description: PyTorch, TensorFlow, MLIR, LLVM, Git
+  description: PyTorch, TensorFlow, MLIR, LLVM, Git, Perforce, Docker, SQL, JenkinsCI/CD, Valgrind, gdb
   
-- skill: EDA Tools
-  description: Cadence SiP, Cadence OribitIO, Cadence Virtuoso, Synopsys Design Compiler, Synopsys IC Compiler, KiCad, Autodesk EAGLE
+# - skill: EDA Tools
+#   description: Cadence SiP, Cadence OribitIO, Cadence Virtuoso, Synopsys Design Compiler, Synopsys IC Compiler, KiCad, Autodesk EAGLE
