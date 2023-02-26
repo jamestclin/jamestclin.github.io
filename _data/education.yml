@@ -1,10 +1,10 @@
 # Degree
-- degree: Doctor of Philosophy
+- degree: Master of Science
   uni: University of California, San Diego
   year: 2019 &mdash; 2021
   awards:
     - award: "Major - Computer Science and Engineering (Overall GPA 3.97/4.00)"
-    - award: "Advisor - Prof. Chung-Kuan Cheng"
+#     - award: "Advisor - Prof. Chung-Kuan Cheng"
   # summary: You can choose to have either a single or multiple awards
 
 - degree: Master of Science
@@ -12,7 +12,7 @@
   year: 2015 &mdash; 2017
   awards:
     - award: "Major - Electronics Engineering (Overall GPA 4.23/4.30)"
-    - award: "Advisor - Prof. Yao-Wen Chang"
+#     - award: "Advisor - Prof. Yao-Wen Chang"
   # summary: You can choose to have either a single or multiple awards
 
 - degree: Undergraduate Exchange Student
