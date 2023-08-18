@@ -20,7 +20,7 @@ resume_contact_email:           "jameslin.amd@gmail.com"
 resume_contact_telephone:       "858-210-2645"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "858-210-2645 • jameslin.cb@gmail.com"
+resume_header_contact_info:     "858-210-2645 • jameslin.amd@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>As a highly motivated software engineer with a strong background in both computer science and electronics engineering, I have developed a diverse set of skills through my 4+ years of professional full-time experience in the industry. Throughout my career, I have had the opportunity to work with cutting-edge technologies and collaborate with cross-functional teams to deliver innovative solutions. I have experience in developing graph algorithms for accelerators, optimizing software runtime, and enabling GPT/BERT models on accelerators. My current research focus is on search and optimization as well as design automation.</p>"
