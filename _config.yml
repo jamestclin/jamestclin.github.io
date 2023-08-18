@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ting-Chou (James) Lin"
-resume_title:                   "Software Development Engineer (MTS) @ AMD"
+resume_title:                   "Software Development Engineer @ AMD"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jameslin.amd@gmail.com"
